@@ -12,6 +12,7 @@ Machine Learning and AI
 > https://cs224d.stanford.edu/lectures/
 
 ##  CS229 Machine Learning
+> http://www.holehouse.org/mlclass/
 > http://cs229.stanford.edu/
 > https://www.coursera.org/learn/machine-learning
 
