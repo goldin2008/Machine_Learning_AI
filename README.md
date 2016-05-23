@@ -9,11 +9,14 @@ Machine Learning and AI
 
 ## CS224d: Deep Learning for Natural Language Processing
 > http://cs224d.stanford.edu/index.html
+
 > https://cs224d.stanford.edu/lectures/
 
 ##  CS229 Machine Learning
 > http://www.holehouse.org/mlclass/
+
 > http://cs229.stanford.edu/
+
 > https://www.coursera.org/learn/machine-learning
 
 ## Michigan Introduction to Natural Language Processing
